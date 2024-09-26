@@ -1,5 +1,7 @@
 # redis-bloom-practice
 布隆过滤器最佳实践
+# 设计方案
+![img.png](debug-bloom/pic/img.png)
 
 # 测试程序
 程序代码见：[DebugBloomApplicationTests.java](debug-bloom%2Fsrc%2Ftest%2Fjava%2Forg%2Flyflexi%2Fdebugbloom%2FDebugBloomApplicationTests.java)
